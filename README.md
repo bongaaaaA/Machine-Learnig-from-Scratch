@@ -1,7 +1,6 @@
-# Machine-Learnig-from-Scratch
+# Machine Learning from Scratch 🧠
 ML from Scratch is an educational project that implements core ML algorithms using pure Python and NumPy, without relying on high-level ML libraries such as scikit-learn.  goal of this repository is to deeply understand how machine learning algorithms work internally by building step by step from mathematical foundations to working code.
 
-# Machine Learning from Scratch 🧠
 
 This repository contains **Machine Learning algorithms built from scratch in Python** — without using high-level libraries like scikit-learn for implementation.  
 The goal is to understand the **mathematics and code behind ML algorithms**, and build them manually to gain deep intuition.
